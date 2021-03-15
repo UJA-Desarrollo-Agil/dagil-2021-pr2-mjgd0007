@@ -1,6 +1,6 @@
 body {
-    background: #170804 url("../img/page_bg.jpg") repeat-x left top;
-    font-family: Palatino, Times, "Times New Roman", serif;
+    background-color: #27A0B6;
+    font-family: "Open Sans", serif;
     font-size: 18px;
     line-height: 1.6em;
     background-attachment: fixed;
@@ -30,7 +30,7 @@ body {
 }
 #title .label {
     overflow: hidden;
-    background: #e6e6c6 url("../img/text_bg.jpg") repeat left top;
+    background-color: #FFF7E3;
     padding: 2.0em;
     margin: auto;
     max-width: 18em;
@@ -66,7 +66,7 @@ body {
 #title h1 span.fancy {
     font-size: 2.5em;
     line-height: 0;
-    font-family: Tangerine, Palatino, Times, "Times New Roman", serif;
+    font-family: "Open Sans", serif;
     font-style: italic;
     margin: 0 -0.2em;
 }
@@ -96,7 +96,7 @@ body {
 #content_wrapper {
     max-width: 28em;
     position: relative;
-    background: #e6e6c6 url("../img/text_bg.jpg") repeat left top;
+    background-color: #FFF7E3;
     margin: 0.6em auto 1.1em auto;
     padding: 2.8em;
     display: none; /* Shown by Javascript */
@@ -210,7 +210,7 @@ img.float_left {
 .tools {
     padding: 0.6em;
     width: 8.9em;
-    background: #cec3ae url("../img/tools_bg.jpg") repeat left top;
+    background-color: #FFF7E3;
     position: absolute;
 }
 .tools p {
@@ -354,4 +354,11 @@ img.float_left {
 }
 #menu {
     display: none;
+}
+
+.dialogo {
+	font-style: italic;
+	padding-left: 2em;
+	padding-top: 1.2em;
+	padding-bottom: 1.2em;
 }
