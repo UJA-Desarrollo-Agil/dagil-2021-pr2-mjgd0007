@@ -12,13 +12,23 @@ Todo comenzará como un día para el recuerdo, risas, buenos ratos... pero se em
 ## Capturas de pantalla del tablero en Trello
 
 En estas capturas se muestra la evolución del tablero a lo largo del proyecto.
-* Captura al inicio del rpoyecto
+* Captura al inicio del proyecto
+ ![Captura 1](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-mjgd0007/blob/master/games/media/img/1trello.png)
+
 
 * Captura a mitad del desarrollo del proyecto
+ ![Captura 2](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-mjgd0007/blob/master/games/media/img/2trello.png)
 
 * Captura al final del proyecto
+ ![Captura 3](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-mjgd0007/blob/master/games/media/img/3trello.png)
 
 
-##Capturas de pantalla de la aplicación Telegram
+## Capturas de pantalla de la aplicación Telegram
 
 En estas capturas se comprueba que efectivamente están vinculados los eventos de GitHub con Telegram.
+* Sincronización con Trello
+ ![Captura Trello](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-mjgd0007/blob/master/games/media/img/4trello.png)
+ 
+ * Sincronización con GitHub
+ ![Captura GitHub](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-mjgd0007/blob/master/games/media/img/github.png)
+
