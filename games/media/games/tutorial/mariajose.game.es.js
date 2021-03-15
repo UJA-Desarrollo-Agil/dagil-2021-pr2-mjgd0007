@@ -40,10 +40,10 @@
                 amigo se acerca y pregunta:</p>\
                 <p class='dialogo'> -¿Dónde están los hielos?</p>\
                 \
-                <p>En ese momento mi amiga y yo no miramos dicendo:</p> \
+                <p>En ese momento mi amiga y yo nos miramos dicendo:</p> \
                 <p class='dialogo'> +Yo: ¡Los tenías que comprar tú!</p>\
                 <p class='dialogo'> -Mi amiga: ¡NO los tenías que comprar tú!</p>\
-                <p class='transient'>Después de varios minutos discutiendo sobre quien debería haberlos comprado, acepto que debería haberlos comprado yo, así que\
+                <p class='transient'>Después de varios minutos discutiendo sobre quién debería haberlos comprado, acepto que debería haberlos comprado yo, así que\
                 puedo <a href='bajarahora'>bajar en este mismo momento</a> rápidamente a comprarlos o\
                 <a href='bajardespues'>bajar más tarde.</a></p>"
 
@@ -51,7 +51,7 @@
 
             bajarahora: new undum.SimpleSituation(
               "<p>Y tiene razón, ha sido culpa mía, con la emoción de la fiesta se me han olvidado comprar los hielos... \
-              así que bajo ahora mismo y así no tengo que bajar luego cuando haga más calor y nos lo estemos pasando bien.</p> \
+              así que bajo ahora mismo y así no tengo que bajar luego cuando haga más calor y lo estemos pasando bien.</p> \
               <p>Voy a coger el <a href='./dillaves' class='once'>dinero y las llaves de coche</a> y me pongo en camino.</p>",
               {
                 actions:{
