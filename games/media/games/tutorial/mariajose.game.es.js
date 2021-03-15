@@ -77,7 +77,8 @@
             bajardespues: new undum.SimpleSituation(
               "<p>Y tiene razón, ha sido mi culpa, con la emoción de la fiesta se me han olvidado comprar los hielos, \
               pero no tengo ganas de bajar ahora ya que estamos haciendo la comida y además no hace tanto calor.</p> \
-              <p>Pasan las horas y está apretando el calor... y mis amigos se están enfadando así que lo mejor es \
+              <center><img src='media/games/tutorial/tarde.jpg'></center>\
+              <p>Ya hemos terminado de comer y está apretando el calor... mis amigos se están enfadando, quieren beber algo fresquito, así que lo mejor es \
               que baje a comprar los hielos ya. Corro a coger el <a href='dineroyllaves'>dinero y las llaves del coche.</a></p>",
               {
               enter:function(character, system, to) {
@@ -118,7 +119,7 @@
             <p>Acabo de llegar a la gasolinera. No hay casi nadie. Entro en la tienda y le pregunto a la dependienta: \
             <p class='dialogo'> -Yo: Hola, ¿tenéis bolsas de hielo? </p> \
             <p class='dialogo'> -Dependienta: ¡Si, nos quedan sólo dos!</p> \
-            <p>La dependienta coje las bolsas del congelador y antes de pagárselas me dice:</p> \
+            <p>La dependienta coge las bolsas del congelador y antes de pagárselas me dice:</p> \
             <p class='dialogo'> - Como son las últimas bolsas que me quedan te voy a regalar un flotador gigante para la piscina, que me queda sólo uno y no se que hacer con él jajaja </p> \
             <p>¡Pero que maravilla! Tengo los hielos y además un flotador gigante, ¡mis amigos van a estar super contentos!. Pago a la dependienta y vuelvo para <a href='casa'>casa</a>.</p>",
             {
